@@ -1,7 +1,7 @@
 # Identitas Diri
-NIM   : 2108067
-NAMA  : Villeneuve Andhira Suwandhi
-KELAS : Ilmu Komputer C1
+NIM   : 2108067<br />
+NAMA  : Villeneuve Andhira Suwandhi<br />
+KELAS : Ilmu Komputer C1<br />
 
 # UASWEB
 CRUD (Create, Read, Update, and Delete) perpustakaan. Using CodeIgniter and MVC (Model, View, Controller).
