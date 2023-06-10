@@ -10,7 +10,7 @@ CRUD (Create, Read, Update, and Delete) perpustakaan. Using CodeIgniter and MVC 
 - database<br />
 ![image](https://github.com/villeneuveandhira/UASWEB/assets/101118033/05cc1f4f-b51d-4516-bc45-e1f6c4c97785)
 
-- login< br/>
+- login<br />
 ![image](https://github.com/villeneuveandhira/UASWEB/assets/101118033/e54985f1-d4c1-48c4-be79-c7f427b0eb1e)
 
 - register<br />
